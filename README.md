@@ -1,0 +1,1 @@
+This project shows how to apply a Random Forest model to structured tabular data using Python with pandas and scikit-learn. It assumes the last column of your dataset is the target variable and handles everything from splitting the data to training and evaluating the model.
