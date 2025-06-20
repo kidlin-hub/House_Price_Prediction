@@ -1,1 +1,1 @@
-This project shows how to apply a Random Forest model to structured tabular data using Python with pandas and scikit-learn. It assumes the last column of your dataset is the target variable and handles everything from splitting the data to training and evaluating the model.
+This project predicts house prices based on details like the number of rooms, size of the house, location, and other property features. It looks at patterns in existing housing data and learns how different factors influence the final price.
